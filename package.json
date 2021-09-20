@@ -1,0 +1,7 @@
+{
+	"name": "com.chumzyts.bars",
+	"version": "1.0.0",
+	"displayName": "Custom Bars",
+	"description": "This package lets you easily create UI bars",
+	"unity": "2020.1"
+}

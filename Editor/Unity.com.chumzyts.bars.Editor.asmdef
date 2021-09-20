@@ -1,0 +1,6 @@
+{
+    "name": "com.chumzyts.bars.editor",
+    "references": [
+        "com.chumzyts.bars.runtime"
+    ]
+}
