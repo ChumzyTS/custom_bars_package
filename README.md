@@ -17,4 +17,4 @@ The way text stles work is pretty simple
 - [Max] will be converted to the max values
 - [Perc] will be converted to the percentage (Cur/Max) floored to the amount of demical points specified
 
-NOTE the default style "[Cur][Max]" is actually "[Cur]/[Max]"
+*NOTE* the default style "[Cur][Max]" is actually "[Cur]/[Max]"
